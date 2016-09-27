@@ -1,7 +1,7 @@
 # Mint-Y-Colora Theme
 
 
-##The goal is to make a script that make it easy to change the colours of the Mint-Y theme of Linux Mint 18.
+##The goal is to make a script that makes it easy to change the colours of the Mint-Y theme of Linux Mint 18.
 Source can be found at https://github.com/linuxmint/mint-y-theme. Creator Horst3180.
 
 ###A youtube tutorial can be found here :
@@ -14,7 +14,6 @@ Source can be found at https://github.com/linuxmint/mint-y-theme. Creator Horst3
 ##Mint COLORA is capable to have ANY colour YOU like.
 
 ###Create your own colour accent theme with these scripts.
-
 
 
 Each time I run these scripts, I renamed the result for example from 
@@ -36,22 +35,18 @@ Building takes approx. 20 minutes.
 
 Check the folder <b>themes</b> : 
 
-Here is what you can download: 
 
-All of them have three variants. Not only the Dark version.
+# What is the inital look of Mint-Y theme
 
-
-
-# Mint-Y theme with an orange colour accent instead of green
 
 The green colours of Mint-y theme 
 
     - 9ab87c
     - 8fa876
 
-have been replaced both with a grey colour which is called 'sun'
+have been replaced both with a .... colour which is called 'xxxx'
 
-    - ef7e2c
+    - xxxxxx
 
 to follow one of the themes of the sardi icons at sourceforge.
 
@@ -66,7 +61,12 @@ This is the original Mint-Y-Dark theme with all the little green accents.
 ![Screenshots](http://i.imgur.com/LcMjMBG.png)
 
 
-# This is the Mint-Y-Sun theme.
+
+#What has been created so far
+
+
+
+#This is the Mint-Y-Sun theme.
 
 
 ## Mint-Y-Dark-Sun
@@ -83,6 +83,131 @@ This is the original Mint-Y-Dark theme with all the little green accents.
 
 
 ![Screenshots](http://i.imgur.com/1tHgHXi.jpg)
+
+
+# This is the Mint-Y-Alu theme.
+
+
+## Mint-Y-Dark-Alu
+
+![Screenshots](http://i.imgur.com/rRgxvgE.jpg)
+
+
+## Mint-Y-Alu
+
+![Screenshots](http://i.imgur.com/vpWBaol.jpg)
+
+
+## Mint-Y-Darker-Alu
+
+
+![Screenshots](http://i.imgur.com/Whth7bW.png)
+
+
+
+# This is the Mint-Y-Arc theme.
+
+
+## Mint-Y-Dark-Arc
+
+![Screenshots](http://i.imgur.com/xStA6XS.jpg)
+
+
+## Mint-Y-Arc
+
+![Screenshots](http://i.imgur.com/6ii1UrF.jpg)
+
+
+## Mint-Y-Darker-Arc
+
+
+![Screenshots](http://i.imgur.com/tRFkqVO.jpg)
+
+
+
+# This is the Mint-Y-Arch theme.
+
+
+## Mint-Y-Dark-Arch
+
+![Screenshots](http://i.imgur.com/gPcjb5e.jpg)
+
+
+## Mint-Y-Arch
+
+![Screenshots](http://i.imgur.com/IelYXod.jpg)
+
+
+## Mint-Y-Darker-Arch
+
+
+![Screenshots](http://i.imgur.com/o1XnG0M.png)
+
+
+
+# This is the Mint-Y-Endeavour theme.
+
+
+## Mint-Y-Dark-Endeavour
+
+![Screenshots](http://i.imgur.com/5vkEmEi.jpg)
+
+
+## Mint-Y-Endeavour
+
+![Screenshots](http://i.imgur.com/rUJ7sRM.jpg)
+
+
+## Mint-Y-Darker-Endeavour
+
+
+![Screenshots](http://i.imgur.com/Dx5cow3.jpg)
+
+# This is the Mint-Y-Faba theme.
+
+
+## Mint-Y-Dark-Faba
+
+![Screenshots](http://i.imgur.com/lQs3os3.jpg)
+
+
+# This is the Mint-Y-Fire theme.
+
+
+## Mint-Y-Dark-Fire
+
+![Screenshots](http://i.imgur.com/iDTAVCp.jpg)
+
+
+## Mint-Y-Fire
+
+![Screenshots](http://i.imgur.com/S7rxV2Q.png)
+
+
+## Mint-Y-Darker-Fire
+
+
+![Screenshots](http://i.imgur.com/5PuBay9.png)
+
+
+# This is the Mint-Y-Lightning theme.
+
+
+## Mint-Y-Dark-Lightning
+
+![Screenshots](http://i.imgur.com/iknj8bS.jpg)
+
+
+## Mint-Y-Lightning
+
+![Screenshots](http://i.imgur.com/XQDzq97.jpg)
+
+
+## Mint-Y-Darker-Lightning
+
+
+![Screenshots](http://i.imgur.com/nZzpm2Q.jpg)
+
 
 
 
