@@ -265,41 +265,7 @@ If you renamed the theme to Mint-Y-Sun for example
     rm -rf ~/.themes/{Mint-Y-Sun,Mint-Y-Darker-Sun,Mint-Y-Dark-Sun}
 
 
-### Extras
-
-This will be the next job on my agenda... Nothing beneath here has changed in reference to the github of horst3180.
-
-#### Mint Firefox theme
-A theme for Firefox is available at https://github.com/horst3180/Mint-firefox-theme
-
-#### Mint icon theme
-The Mint icon theme is available at https://github.com/horst3180/Mint-icon-theme
-
-#### Chrome/Chromium theme
-To install the Chrome/Chromium theme go to the `extra/Chrome` folder and drag and drop the Mint-theme.crx or Mint-dark-theme.crx file into the Chrome/Chromium window. The source of the Chrome themes is located in the source "Chrome/Mint-theme" folder.
-
-#### Plank theme
-To install the Plank theme, copy the `extra/Mint-Plank` folder to `~/.local/share/plank/themes` or to `/usr/share/plank/themes` for system-wide use.
-Now open the Plank preferences window by executing `plank --preferences` from a terminal and select `Mint-Plank` as the theme.
-
-#### Mint-Dark for Ubuntu Software Center
-The Mint Dark theme for the Ubuntu Software Center by [mervick](https://github.com/mervick) can be installed from [here](https://github.com/mervick/Mint-dark-software-center). It solves readability issues with Mint Dark and the Ubuntu Software Center.
-
-### Troubleshooting
-
-If you have Ubuntu with a newer GTK/Gnome version than the one included by default (i.e Ubuntu 14.04 with GTK 3.14 or Ubuntu 15.04 with GTK 3.16, etc.) the prebuilt packages won't work properly and you have to install the theme manually as described above.
-This is also true for other distros with a different GTK/Gnome version than the one included by default
-
---
-
-If you get artifacts like black or invisible backgrounds under Unity, disable overlay scrollbars with
-
-    gsettings set com.canonical.desktop.interface scrollbar-mode normal
+Report any issues on google+ or on this github.
 
 
-### Bug reporting
-If you find a bug, please report it at https://github.com/horst3180/Mint-theme/issues
-
-### License
-Mint is available under the terms the GPL-3.0. See `COPYING` for details.
-
+Enjoy.
