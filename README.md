@@ -1,4 +1,8 @@
-# Arc-Colora Theme
+# Mint-Y-Colora Theme
+
+
+blablaba
+
 
 ##The goal is to make scripts that make it easy to change the colours of the Arc-Theme
 Source can be found at https://github.com/horst3180/
