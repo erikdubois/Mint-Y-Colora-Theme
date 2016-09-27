@@ -1,37 +1,33 @@
 # Mint-Y-Colora Theme
 
 
-blablaba
-
-
-##The goal is to make scripts that make it easy to change the colours of the Arc-Theme
-Source can be found at https://github.com/horst3180/
+##The goal is to make a script that make it easy to change the colours of the Mint-Y theme of Linux Mint 18.
+Source can be found at https://github.com/linuxmint/mint-y-theme. Creator Horst3180.
 
 ###A youtube tutorial can be found here :
 
-###http://erikdubois.be/change-colour-arc-theme-horst3180/
+###http://erikdubois.be/
 
 
 [Sardi icons](https://sourceforge.net/projects/sardi/files/) uses also the term COLORA to indicate that the icons can be ANY colour. Hope this will be more transparent to the end-user.
 
-##Arc COLORA is capable to have ANY colour YOU like.
+##Mint COLORA is capable to have ANY colour YOU like.
 
 ###Create your own colour accent theme with these scripts.
 
-Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
 
-Each time I run these scripts, I renamed the result from 
+Each time I run these scripts, I renamed the result for example from 
 
-    Arc to Arc-Sun
-    Arc-Dark to Arc-Dark-Sun
-    Arc-Darker to Arc-Darker-Sun
+    Mint-Y to Mint-Y-Sun
+    Mint-Dark to Mint-Dark-Sun
+    Mint-Darker to Mint-Darker-Sun
 
 Sun is just the name of the colour. You can choose any name.
 
 Other names and themes that I created are in the themes <b>folder</b>. They are always 'old'.
 
-If you run the scripts on the latest version of the github of Horst <b>then</b> you will have the most recent version with the latest bug fixes.
+If you run the scripts on the latest version of the github <b>then</b> you will have the most recent version with the latest bug fixes.
 
 
 # Just want to download the themes not build them.
@@ -44,49 +40,134 @@ Here is what you can download:
 
 All of them have three variants. Not only the Dark version.
 
-##Arc-Sun
 
-A screenshot of the Arc-Sun theme
+
+# Mint-Y theme with an orange colour accent instead of green
+
+The green colours of Mint-y theme 
+
+    - 9ab87c
+    - 8fa876
+
+have been replaced both with a grey colour which is called 'sun'
+
+    - ef7e2c
+
+to follow one of the themes of the sardi icons at sourceforge.
+
+https://sourceforge.net/projects/sardi/files
+
+This is the original Mint-Y-Dark theme with all the little green accents.
+
+
+![Screenshots](http://i.imgur.com/RFfsxm6.jpg)
+
+
+![Screenshots](http://i.imgur.com/LcMjMBG.png)
+
+
+# This is the Mint-Y-Sun theme.
+
+
+## Mint-Y-Dark-Sun
+
+![Screenshots](http://i.imgur.com/xi11Z70.jpg)
+
+
+## Mint-Y-Sun
+
+![Screenshots](http://i.imgur.com/JeKQ9fZ.png)
+
+
+## Mint-Y-Darker-Sun
+
+
+![Screenshots](http://i.imgur.com/1tHgHXi.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##Mint-Sun
+
+A screenshot of the Mint-Sun theme
 
 ![Screenshots](http://i.imgur.com/ck1grBn.jpg)
 
-##Arc-Dark-Sun
+##Mint-Dark-Sun
 
-A screenshot of the Arc-Darker-Sun theme]
+A screenshot of the Mint-Darker-Sun theme]
 
 ![Screenshots](http://i.imgur.com/QnFBXN7.jpg)
 
-###Arc-Darker-Sun
+###Mint-Darker-Sun
 
-A screenshot of the Arc-Dark-Sun theme
+A screenshot of the Mint-Dark-Sun theme
 
 ![Screenshots](http://i.imgur.com/lVF7Wj0.jpg)
 
-##A screenshot of the Arc-Dark-Fab theme
+##A screenshot of the Mint-Dark-Fab theme
 
 ![Screenshots](http://i.imgur.com/PbRDWxU.jpg)
 
-##A screenshot of the Arc-Dark-Luv theme
+##A screenshot of the Mint-Dark-Luv theme
 
 ![Screenshots](http://i.imgur.com/c3OTQLZ.jpg)
 
-##A screenshot of the Arc-Dark-Tomato theme
+##A screenshot of the Mint-Dark-Tomato theme
 
 ![Screenshots](http://i.imgur.com/jhuHWu8.png)
 
-##A screenshot of the Arc-Dark-Red theme
+##A screenshot of the Mint-Dark-Red theme
 
 ![Screenshots](http://i.imgur.com/6FcWAzP.jpg)
 
-##A screenshot of the Arc-Dark-Polo theme
+##A screenshot of the Mint-Dark-Polo theme
 
 ![Screenshots](http://i.imgur.com/PBHyYrC.jpg)
 
-##A screenshot of the Arc-Dark-Numix theme
+##A screenshot of the Mint-Dark-Numix theme
 
 ![Screenshots](http://i.imgur.com/vuZ9N2j.jpg)
 
-##A screenshot of the Arc-Dark-Evopop theme
+##A screenshot of the Mint-Dark-Evopop theme
 
 ![Screenshots](http://i.imgur.com/0t8HtAP.jpg)
 
@@ -94,12 +175,12 @@ A screenshot of the Arc-Dark-Sun theme
 
 **Important:** Remove all older versions of the theme from your system before you proceed any further.
 
-The result of the scripts of Horst will be called Arc, Arc-Darker, Arc-Dark no matter what colour you choose.
+The result of the scripts of Horst will be called Mint, Mint-Darker, Mint-Dark no matter what colour you choose.
 Rename the folders to a new colouring name.
 
-    sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
-    rm -rf ~/.local/share/themes/{Arc,Arc-Darker,Arc-Dark}
-    rm -rf ~/.themes/{Arc,Arc-Darker,Arc-Dark}
+    sudo rm -rf /usr/share/themes/{Mint,Mint-Darker,Mint-Dark}
+    rm -rf ~/.local/share/themes/{Mint,Mint-Darker,Mint-Dark}
+    rm -rf ~/.themes/{Mint,Mint-Darker,Mint-Dark}
 
 If you do not, remove them, my guess is that they will be overwritten. And I guess it will leave some residual code from the old version.
 
@@ -124,17 +205,17 @@ First install git
 
 	sudo apt-get install git
 
-Get the latest version from Horst - Arc Theme, clone the repository with
+Get the latest version from Horst - Mint Theme, clone the repository with
 
-    git clone https://github.com/horst3180/arc-theme
+    git clone https://github.com/horst3180/Mint-theme
 
-Get the latest version from Arc Colora, clone the repository with
+Get the latest version from Mint Colora, clone the repository with
 
-    git clone https://github.com/erikdubois/arc-theme-colora
+    git clone https://github.com/erikdubois/Mint-theme-colora
 
 Copy/paste the four scripts inside the directory 
 
-    arc-theme
+    Mint-theme
 
 Let us run the scripts.
 
@@ -166,9 +247,9 @@ This is the most important part. New png's will be created with your colour.
 Other options to pass to autogen.sh are
 
     --disable-transparency     disable transparency in the GTK3 theme
-    --disable-light            disable Arc Light support
-    --disable-darker           disable Arc Darker support
-    --disable-dark             disable Arc Dark support
+    --disable-light            disable Mint Light support
+    --disable-darker           disable Mint Darker support
+    --disable-dark             disable Mint Dark support
     --disable-cinnamon         disable Cinnamon support
     --disable-gnome-shell      disable GNOME Shell support
     --disable-gtk2             disable GTK2 support
@@ -208,44 +289,44 @@ I move them manually from
 
 were I can make further enhancements and changes.
 
-Rename the <b>folders</b> so that they are unique. E.g. Arc-Sun
+Rename the <b>folders</b> so that they are unique. E.g. Mint-Sun
 
-Change the <b>index.theme</b> so that the names of the theme are the same as the folder. E.g. Arc-Sun
+Change the <b>index.theme</b> so that the names of the theme are the same as the folder. E.g. Mint-Sun
 
 
-After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Arc-Sun`, `Arc-Darker-Sun` or `Arc-Dark-Sun` as Window/GTK+ theme and `Arc-Sun` or `Arc-Dark-Sun` as Gnome-Shell and Xfce-Notify theme.
+After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Mint-Sun`, `Mint-Darker-Sun` or `Mint-Dark-Sun` as Window/GTK+ theme and `Mint-Sun` or `Mint-Dark-Sun` as Gnome-Shell and Xfce-Notify theme.
 
 
 
 # Uninstall the theme
 
-If you renamed the theme to Arc-Sun for example
+If you renamed the theme to Mint-Sun for example
 
-    sudo rm -rf /usr/share/themes/{Arc-Sun,Arc-Darker-Sun,Arc-Dark-Sun}
-    sudo rm -rf /usr/local/share/themes/{Arc-Sun,Arc-Darker-Sun,Arc-Dark-Sun}
-    rm -rf ~/.local/share/themes/{Arc-Sun,Arc-Darker-Sun,Arc-Dark-Sun}
-    rm -rf ~/.themes/{Arc-Sun,Arc-Darker-Sun,Arc-Dark-Sun}
+    sudo rm -rf /usr/share/themes/{Mint-Sun,Mint-Darker-Sun,Mint-Dark-Sun}
+    sudo rm -rf /usr/local/share/themes/{Mint-Sun,Mint-Darker-Sun,Mint-Dark-Sun}
+    rm -rf ~/.local/share/themes/{Mint-Sun,Mint-Darker-Sun,Mint-Dark-Sun}
+    rm -rf ~/.themes/{Mint-Sun,Mint-Darker-Sun,Mint-Dark-Sun}
 
 
 ### Extras
 
 This will be the next job on my agenda... Nothing beneath here has changed in reference to the github of horst3180.
 
-#### Arc Firefox theme
-A theme for Firefox is available at https://github.com/horst3180/arc-firefox-theme
+#### Mint Firefox theme
+A theme for Firefox is available at https://github.com/horst3180/Mint-firefox-theme
 
-#### Arc icon theme
-The Arc icon theme is available at https://github.com/horst3180/arc-icon-theme
+#### Mint icon theme
+The Mint icon theme is available at https://github.com/horst3180/Mint-icon-theme
 
 #### Chrome/Chromium theme
-To install the Chrome/Chromium theme go to the `extra/Chrome` folder and drag and drop the arc-theme.crx or arc-dark-theme.crx file into the Chrome/Chromium window. The source of the Chrome themes is located in the source "Chrome/arc-theme" folder.
+To install the Chrome/Chromium theme go to the `extra/Chrome` folder and drag and drop the Mint-theme.crx or Mint-dark-theme.crx file into the Chrome/Chromium window. The source of the Chrome themes is located in the source "Chrome/Mint-theme" folder.
 
 #### Plank theme
-To install the Plank theme, copy the `extra/Arc-Plank` folder to `~/.local/share/plank/themes` or to `/usr/share/plank/themes` for system-wide use.
-Now open the Plank preferences window by executing `plank --preferences` from a terminal and select `Arc-Plank` as the theme.
+To install the Plank theme, copy the `extra/Mint-Plank` folder to `~/.local/share/plank/themes` or to `/usr/share/plank/themes` for system-wide use.
+Now open the Plank preferences window by executing `plank --preferences` from a terminal and select `Mint-Plank` as the theme.
 
-#### Arc-Dark for Ubuntu Software Center
-The Arc Dark theme for the Ubuntu Software Center by [mervick](https://github.com/mervick) can be installed from [here](https://github.com/mervick/arc-dark-software-center). It solves readability issues with Arc Dark and the Ubuntu Software Center.
+#### Mint-Dark for Ubuntu Software Center
+The Mint Dark theme for the Ubuntu Software Center by [mervick](https://github.com/mervick) can be installed from [here](https://github.com/mervick/Mint-dark-software-center). It solves readability issues with Mint Dark and the Ubuntu Software Center.
 
 ### Troubleshooting
 
@@ -260,8 +341,8 @@ If you get artifacts like black or invisible backgrounds under Unity, disable ov
 
 
 ### Bug reporting
-If you find a bug, please report it at https://github.com/horst3180/arc-theme/issues
+If you find a bug, please report it at https://github.com/horst3180/Mint-theme/issues
 
 ### License
-Arc is available under the terms the GPL-3.0. See `COPYING` for details.
+Mint is available under the terms the GPL-3.0. See `COPYING` for details.
 
