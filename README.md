@@ -210,8 +210,6 @@ This is the original Mint-Y-Dark theme with all the little green accents.
 
 
 
-
-
 ### Installation
 
 **Important:** Remove all older versions of the theme from your system before you proceed any further.
@@ -248,11 +246,11 @@ First install git
 
 Get the latest version from Horst - Mint Theme, clone the repository with
 
-    git clone https://github.com/horst3180/Mint-theme
+    git clone https://github.com/linuxmint/mint-y-theme
 
-Get the latest version from Mint Colora, clone the repository with
+Get the latest version from Mint-Y-Colora, clone the repository with
 
-    git clone https://github.com/erikdubois/Mint-theme-colora
+    git clone https://github.com/erikdubois/Mint-Y-Colora-Theme
 
 Copy/paste the four scripts inside the directory 
 
@@ -265,7 +263,7 @@ Let us run the scripts.
 Use the script to change the colour. Find yourself a nice colour on gpick or online.
 It should be a hexadecimal notation. Read the script for more info.
 
-	1-change-colors.sh
+	1-change-color.sh
 
 **2. Delete old assets or png's**
 
@@ -285,38 +283,6 @@ This is the most important part. New png's will be created with your colour.
 
     4-final-installation.sh
 
-Other options to pass to autogen.sh are
-
-    --disable-transparency     disable transparency in the GTK3 theme
-    --disable-light            disable Mint Light support
-    --disable-darker           disable Mint Darker support
-    --disable-dark             disable Mint Dark support
-    --disable-cinnamon         disable Cinnamon support
-    --disable-gnome-shell      disable GNOME Shell support
-    --disable-gtk2             disable GTK2 support
-    --disable-gtk3             disable GTK3 support
-    --disable-metacity         disable Metacity support
-    --disable-unity            disable Unity support
-    --disable-xfwm             disable XFWM support
-
-    --with-gnome=<version>     build the theme for a specific Gnome version (3.14, 3.16, 3.18, 3.20)
-                               Note: Normally the correct version is detected automatically and this
-                               option should not be needed.
-
-# Watch out
-
-If you forget to type 
-
-    --prefix=/usr
-
-Then the themes can be found here : 
-
-    /usr/local/share/themes
-
-Otherwise the themes will be installed in 
-
-    /usr/share/themes
-
 
 #You have to change the names manually.
 
@@ -324,29 +290,29 @@ Easier than looking in the files where to change what.
 
 I move them manually from 
 
-    /usr/share/themes 
-    to 
+  
     ~/.themes
+
 
 were I can make further enhancements and changes.
 
-Rename the <b>folders</b> so that they are unique. E.g. Mint-Sun
+Rename the <b>folders</b> so that they are unique. E.g. Mint-Y-Sun
 
-Change the <b>index.theme</b> so that the names of the theme are the same as the folder. E.g. Mint-Sun
+Change the <b>index.theme</b> so that the names of the theme are the same as the folder. E.g. Mint-Y-Sun
 
 
-After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Mint-Sun`, `Mint-Darker-Sun` or `Mint-Dark-Sun` as Window/GTK+ theme and `Mint-Sun` or `Mint-Dark-Sun` as Gnome-Shell and Xfce-Notify theme.
+After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Mint-Y-Sun`, `Mint-Y-Darker-Sun` or `Mint-Y-Dark-Sun` as Window/GTK+ theme and `Mint-Y-Sun` or `Mint-Y-Dark-Sun` as Gnome-Shell and Xfce-Notify theme.
 
 
 
 # Uninstall the theme
 
-If you renamed the theme to Mint-Sun for example
+If you renamed the theme to Mint-Y-Sun for example
 
-    sudo rm -rf /usr/share/themes/{Mint-Sun,Mint-Darker-Sun,Mint-Dark-Sun}
-    sudo rm -rf /usr/local/share/themes/{Mint-Sun,Mint-Darker-Sun,Mint-Dark-Sun}
-    rm -rf ~/.local/share/themes/{Mint-Sun,Mint-Darker-Sun,Mint-Dark-Sun}
-    rm -rf ~/.themes/{Mint-Sun,Mint-Darker-Sun,Mint-Dark-Sun}
+    sudo rm -rf /usr/share/themes/{Mint-Y-Sun,Mint-Y-Darker-Sun,Mint-Y-Dark-Sun}
+    sudo rm -rf /usr/local/share/themes/{Mint-Y-Sun,Mint-Y-Darker-Sun,Mint-Y-Dark-Sun}
+    rm -rf ~/.local/share/themes/{Mint-Y-Sun,Mint-Y-Darker-Sun,Mint-Y-Dark-Sun}
+    rm -rf ~/.themes/{Mint-Y-Sun,Mint-Y-Darker-Sun,Mint-Y-Dark-Sun}
 
 
 ### Extras
