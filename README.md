@@ -201,20 +201,20 @@ Get the latest version from Mint-Y-Colora, clone the repository with
 
 Copy/paste the 3 scripts inside the directory of 
 
-    Mint-theme
+    mint-y-theme
 
 Let us run the scripts.
 
 **1. Change the colour**
 
-Use the script to change the colour. Find yourself a nice colour on gpick or online.
+Use the script to change the colour. Find yourself a nice colour with gpick or online.
 It should be a hexadecimal notation. Read the script for more info.
 
 	1-change-color.sh
 
 **2. Delete old assets or png's**
 
-Old png's will have to be deleted. They are still the original blue ones. Read the script for more info.
+Old png's will have to be deleted. They are still the original green ones. Read the script for more info.
 
 	2-delete-assets.sh
 
@@ -226,16 +226,24 @@ This is the most important part. New png's will be created with your colour.
 	3-make-assets.sh
 
 
-**4. Build and install the theme**
 
-    4-final-installation.sh
+**4. Renaming
+
+If all went well you will find the result in the following directory in your working folder
+
+    usr/share/themes   NOT /usr/share/themes !!
+
+Rename the directories to have an other name or you will doubles in your theme manager.
+
+Rename the <b>folders</b> so that they are unique. E.g. Mint-Y-Sun
+
+Change the <b>index.theme</b> so that the names of the theme are the same as the folder. E.g. Mint-Y-Sun
 
 
-#You have to change the names manually.
 
-Easier than looking in the files where to change what.
+**5. Moving them to the right folder
 
-I move them manually from 
+I move them manually to
 
   
     ~/.themes
@@ -243,13 +251,8 @@ I move them manually from
 
 were I can make further enhancements and changes.
 
-Rename the <b>folders</b> so that they are unique. E.g. Mint-Y-Sun
 
-Change the <b>index.theme</b> so that the names of the theme are the same as the folder. E.g. Mint-Y-Sun
-
-
-After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Mint-Y-Sun`, `Mint-Y-Darker-Sun` or `Mint-Y-Dark-Sun` as Window/GTK+ theme and `Mint-Y-Sun` or `Mint-Y-Dark-Sun` as Gnome-Shell and Xfce-Notify theme.
-
+After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Mint-Y-Sun`, `Mint-Y-Darker-Sun` or `Mint-Y-Dark-Sun` as Window/GTK+ theme.
 
 
 # Uninstall the theme
