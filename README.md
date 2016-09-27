@@ -178,28 +178,9 @@ This is the original Mint-Y-Dark theme with all the little green accents.
 
 ### Installation
 
-**Important:** Remove all older versions of the theme from your system before you proceed any further.
 
-The result of the scripts of Horst will be called Mint, Mint-Darker, Mint-Dark no matter what colour you choose.
-Rename the folders to a new colouring name.
+<b>We will install all the needed software in script 3.</b>
 
-    sudo rm -rf /usr/share/themes/{Mint,Mint-Darker,Mint-Dark}
-    rm -rf ~/.local/share/themes/{Mint,Mint-Darker,Mint-Dark}
-    rm -rf ~/.themes/{Mint,Mint-Darker,Mint-Dark}
-
-If you do not, remove them, my guess is that they will be overwritten. And I guess it will leave some residual code from the old version.
-
-To build the theme you'll need following applications. <b>We will install them via script 3.</b>
-
-    * `optipng`
-    * `inkscape`
-    * `autoconf`
-    * `automake`
-    * `pkg-config` or `pkgconfig` if you use Fedora
-    * `libgtk-3-dev` for Debian based distros or `gtk3-devel` for RPM based distros
-    * `git` if you want to clone the source directory
-
-      or sudo apt-get install ...
 
 
 #Install the theme with the following scripts
@@ -210,7 +191,7 @@ First install git
 
 	sudo apt-get install git
 
-Get the latest version from Horst - Mint Theme, clone the repository with
+Get the latest version from Horst - Mint-Y Theme, clone the repository with
 
     git clone https://github.com/linuxmint/mint-y-theme
 
@@ -218,7 +199,7 @@ Get the latest version from Mint-Y-Colora, clone the repository with
 
     git clone https://github.com/erikdubois/Mint-Y-Colora-Theme
 
-Copy/paste the four scripts inside the directory 
+Copy/paste the 3 scripts inside the directory of 
 
     Mint-theme
 
