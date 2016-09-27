@@ -29,11 +29,12 @@ Other names and themes that I created are in the themes <b>folder</b>. They are 
 If you run the scripts on the latest version of the github <b>then</b> you will have the most recent version with the latest bug fixes.
 
 
-# Just want to download the themes not build them.
+# Just want to download the themes not build them
+
+All created themes can be found in the <b>themes</b> folder. Put them in your hidden folder .themes.
 
 Building takes approx. 20 minutes.
 
-Check the folder <b>themes</b> : 
 
 
 # What is the inital look of Mint-Y theme
@@ -52,6 +53,7 @@ to follow one of the themes of the sardi icons at sourceforge.
 
 https://sourceforge.net/projects/sardi/files
 
+
 This is the original Mint-Y-Dark theme with all the little green accents.
 
 
@@ -62,149 +64,113 @@ This is the original Mint-Y-Dark theme with all the little green accents.
 
 
 
-#What has been created so far
+#What Mint-Y variations can you download?
 
 
 
 #This is the Mint-Y-Sun theme.
 
 
+
 ## Mint-Y-Dark-Sun
 
 ![Screenshots](http://i.imgur.com/xi11Z70.jpg)
-
 
 ## Mint-Y-Sun
 
 ![Screenshots](http://i.imgur.com/JeKQ9fZ.png)
 
-
 ## Mint-Y-Darker-Sun
-
 
 ![Screenshots](http://i.imgur.com/1tHgHXi.jpg)
 
-
 # This is the Mint-Y-Alu theme.
-
 
 ## Mint-Y-Dark-Alu
 
 ![Screenshots](http://i.imgur.com/rRgxvgE.jpg)
 
-
 ## Mint-Y-Alu
 
 ![Screenshots](http://i.imgur.com/vpWBaol.jpg)
 
-
 ## Mint-Y-Darker-Alu
-
 
 ![Screenshots](http://i.imgur.com/Whth7bW.png)
 
-
-
 # This is the Mint-Y-Arc theme.
-
 
 ## Mint-Y-Dark-Arc
 
 ![Screenshots](http://i.imgur.com/xStA6XS.jpg)
 
-
 ## Mint-Y-Arc
 
 ![Screenshots](http://i.imgur.com/6ii1UrF.jpg)
 
-
 ## Mint-Y-Darker-Arc
-
 
 ![Screenshots](http://i.imgur.com/tRFkqVO.jpg)
 
-
-
 # This is the Mint-Y-Arch theme.
-
 
 ## Mint-Y-Dark-Arch
 
 ![Screenshots](http://i.imgur.com/gPcjb5e.jpg)
 
-
 ## Mint-Y-Arch
 
 ![Screenshots](http://i.imgur.com/IelYXod.jpg)
 
-
 ## Mint-Y-Darker-Arch
-
 
 ![Screenshots](http://i.imgur.com/o1XnG0M.png)
 
-
-
 # This is the Mint-Y-Endeavour theme.
-
 
 ## Mint-Y-Dark-Endeavour
 
 ![Screenshots](http://i.imgur.com/5vkEmEi.jpg)
 
-
 ## Mint-Y-Endeavour
 
 ![Screenshots](http://i.imgur.com/rUJ7sRM.jpg)
 
-
 ## Mint-Y-Darker-Endeavour
-
 
 ![Screenshots](http://i.imgur.com/Dx5cow3.jpg)
 
 # This is the Mint-Y-Faba theme.
 
-
 ## Mint-Y-Dark-Faba
 
 ![Screenshots](http://i.imgur.com/lQs3os3.jpg)
 
-
 # This is the Mint-Y-Fire theme.
-
 
 ## Mint-Y-Dark-Fire
 
 ![Screenshots](http://i.imgur.com/iDTAVCp.jpg)
 
-
 ## Mint-Y-Fire
 
 ![Screenshots](http://i.imgur.com/S7rxV2Q.png)
 
-
 ## Mint-Y-Darker-Fire
-
 
 ![Screenshots](http://i.imgur.com/5PuBay9.png)
 
-
 # This is the Mint-Y-Lightning theme.
-
 
 ## Mint-Y-Dark-Lightning
 
 ![Screenshots](http://i.imgur.com/iknj8bS.jpg)
 
-
 ## Mint-Y-Lightning
 
 ![Screenshots](http://i.imgur.com/XQDzq97.jpg)
 
-
 ## Mint-Y-Darker-Lightning
-
 
 ![Screenshots](http://i.imgur.com/nZzpm2Q.jpg)
 
