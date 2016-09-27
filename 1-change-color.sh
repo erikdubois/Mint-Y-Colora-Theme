@@ -73,8 +73,8 @@
 ##################################################################################################################
 # put your colour codes in here and do not change the rest
 
-personaldarkcolour=8fa876
-personallightcolour=9ab87c
+personaldarkcolour=688BC6
+personallightcolour=688BC6
 
 
 ##################################################################################################################
