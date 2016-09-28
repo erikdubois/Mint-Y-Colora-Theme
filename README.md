@@ -199,7 +199,7 @@ Get the latest version from Mint-Y-Colora, clone the repository with
 
     git clone https://github.com/erikdubois/Mint-Y-Colora-Theme
 
-Copy/paste the 3 scripts inside the directory of 
+<b>Copy/paste the 3 scripts</b> inside the directory of 
 
     mint-y-theme
 
