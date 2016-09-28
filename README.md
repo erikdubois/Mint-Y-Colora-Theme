@@ -191,7 +191,7 @@ This is the original Mint-Y-Dark theme with all the little green accents.
 
 
 
-### Installation
+# Installation
 
 
 <b>We will install all the needed software in script 3.</b>
