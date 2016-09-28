@@ -175,6 +175,21 @@ This is the original Mint-Y-Dark theme with all the little green accents.
 ![Screenshots](http://i.imgur.com/nZzpm2Q.jpg)
 
 
+# This is the Mint-Y-Polo theme.
+
+## Mint-Y-Dark-Polo
+
+![Screenshots](http://i.imgur.com/fHOkfbJ.jpg)
+
+
+# This is the Mint-Y-Paper theme.
+
+## Mint-Y-Dark-Paper
+
+![Screenshots](http://i.imgur.com/0sUmwY7.jpg)
+
+
+
 
 ### Installation
 
