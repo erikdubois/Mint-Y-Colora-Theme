@@ -261,7 +261,7 @@ Follow the instructions in the script.
 After the installation is complete you can activate the theme with your theme manager by selecting `Mint-Y-Sun`, `Mint-Y-Darker-Sun` or `Mint-Y-Dark-Sun` as Window/GTK+ theme. If you named the theme "Sun". That is just an example.
 
 
-# Uninstall the theme
+# Uninstall the theme manually
 
 If you renamed the theme to Mint-Y-Sun for example
 
