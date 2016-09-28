@@ -193,14 +193,7 @@ This is the original Mint-Y-Dark theme with all the little green accents.
 
 # Installation
 
-
-<b>We will install all the needed software in script 3.</b>
-
-
-
-#Install the theme with the following scripts
-
-**0. Get the source**
+##0. Get the source
 
 First install git 
 
@@ -220,21 +213,21 @@ Get the latest version from Mint-Y-Colora, clone the repository with
 
 Let us run the scripts.
 
-**1. Change the colour**
+##1. Change the colour
 
 Use the script to change the colour. Find yourself a nice colour with gpick or online.
 It should be a hexadecimal notation. Read the script for more info.
 
 	1-change-color.sh
 
-**2. Delete old assets or png's**
+##2. Delete old assets or png's
 
 Old png's will have to be deleted. They are still the original green ones. Read the script for more info.
 
 	2-delete-assets.sh
 
 
-**3. Make new assets or png's**
+##3. Make new assets or png's
 
 This is the most important part. New png's will be created with your colour.
 
@@ -242,7 +235,7 @@ This is the most important part. New png's will be created with your colour.
 
 
 
-**4. Renaming**
+##4. Renaming
 
 If all went well you will find the result in the following directory in your working folder
 
