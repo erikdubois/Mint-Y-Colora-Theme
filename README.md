@@ -6,7 +6,7 @@ Source can be found at https://github.com/linuxmint/mint-y-theme. Creator Horst3
 
 ###A youtube tutorial can be found here :
 
-###http://erikdubois.be/
+To do.
 
 
 [Sardi icons](https://sourceforge.net/projects/sardi/files/) uses also the term COLORA to indicate that the icons can be ANY colour. Hope this will be more transparent to the end-user.
