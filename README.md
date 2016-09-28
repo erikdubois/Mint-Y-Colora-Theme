@@ -199,7 +199,7 @@ Get the latest version from Mint-Y-Colora, clone the repository with
 
     git clone https://github.com/erikdubois/Mint-Y-Colora-Theme
 
-<b>Copy/paste the 3 scripts</b> inside the directory of 
+<b>Copy/paste the 4 scripts</b> inside the directory of 
 
     mint-y-theme
 
@@ -233,23 +233,13 @@ If all went well you will find the result in the following directory in your wor
 
     usr/share/themes   NOT /usr/share/themes !!
 
-Rename the directories to have an other name or you will doubles in your theme manager.
+We will run the last script nr 4
 
-Rename the <b>folders</b> so that they are unique. E.g. Mint-Y-Sun
+	- to rename the folders 
+	- to move the folders to ~/.themes
+	- to change the content of the three index.themes
 
-Change the <b>index.theme</b> so that the names of the theme are the same as the folder. E.g. Mint-Y-Sun
-
-
-
-**5. Moving them to the right folder**
-
-I move them manually to
-
-  
-    ~/.themes
-
-
-were I can make further enhancements and changes.
+Follow the info in the script
 
 
 After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Mint-Y-Sun`, `Mint-Y-Darker-Sun` or `Mint-Y-Dark-Sun` as Window/GTK+ theme.
