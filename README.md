@@ -227,7 +227,7 @@ This is the most important part. New png's will be created with your colour.
 
 
 
-**4. Renaming
+**4. Renaming**
 
 If all went well you will find the result in the following directory in your working folder
 
@@ -241,7 +241,7 @@ Change the <b>index.theme</b> so that the names of the theme are the same as the
 
 
 
-**5. Moving them to the right folder
+**5. Moving them to the right folder**
 
 I move them manually to
 
