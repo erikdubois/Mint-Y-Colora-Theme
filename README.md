@@ -207,9 +207,17 @@ Get the latest version from Mint-Y-Colora, clone the repository with
 
     git clone https://github.com/erikdubois/Mint-Y-Colora-Theme
 
-<b>Copy/paste the 4 scripts</b> inside the directory of 
+<b>Copy/paste the 4 scripts</b> inside 
 
-    mint-y-theme
+
+    Mint-Y-Colora-Theme
+
+
+to the folder 
+
+
+	mint-y-theme
+
 
 Let us run the scripts.
 
