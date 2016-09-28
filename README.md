@@ -255,7 +255,7 @@ We will run the last script nr 4
 	- to move the folders to ~/.themes
 	- to change the content of the three index.themes
 
-Follow the info in the script
+Follow the instructions in the script.
 
 
 After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Mint-Y-Sun`, `Mint-Y-Darker-Sun` or `Mint-Y-Dark-Sun` as Window/GTK+ theme. If you named the theme "Sun". That is just an example.
