@@ -11,7 +11,7 @@ To do.
 
 [Sardi icons](https://sourceforge.net/projects/sardi/files/) uses also the term COLORA to indicate that the icons can be ANY colour. Hope this will be more transparent to the end-user.
 
-##Mint COLORA is capable to have ANY colour YOU like.
+##Mint-Y-COLORA is capable to have ANY colour YOU like.
 
 ###Create your own colour accent theme with these scripts.
 
