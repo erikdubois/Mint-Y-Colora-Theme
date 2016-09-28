@@ -245,7 +245,7 @@ This is the most important part. New png's will be created with your colour.
 
 ##4. Renaming
 
-If all went well you will find the result in the following directory in your working folder
+If all went well you will find the result in the directory (you just downloaded) in the folder
 
     usr/share/themes   NOT /usr/share/themes !!
 
