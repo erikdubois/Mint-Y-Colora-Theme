@@ -73,12 +73,17 @@
 ##################################################################################################################
 # put your colour codes in here and do not change the rest
 
-personaldarkcolour=688BC6
-personallightcolour=688BC6
+personaldarkcolour=90A4AE
+personallightcolour=90A4AE
 
 
 ##################################################################################################################
 
+echo "All colours in the folder src are still the original green ones from github!!!"
+echo "Choose your colour that will replace the green online or with tools like gpick."
+echo "e.g. sudo apt-get install gpick"
+echo "Changing ....."
+echo "Wait for it ...."
 
 ##################################################################################################################
 
@@ -105,8 +110,7 @@ find src -name "*.*" -type f -exec sed -i 's/'$oldcolour4'/'$newcolour4'/g' {}  
 find src -name "*.*" -type f -exec sed -i 's/'$oldcolour5'/'$newcolour5'/g' {}  \;
 find src -name "*.*" -type f -exec sed -i 's/'$oldcolour6'/'$newcolour6'/g' {}  \;
 
-##################################################################################################################
-echo "###########################"
-echo "Script ended"
-echo "###########################"
-##################################################################################################################
+echo "All css files but also svg files will be affected"
+echo "PNG'S will not be altered with this script"
+echo
+echo "Next up delete all assets i.e. png's with script number 2"
