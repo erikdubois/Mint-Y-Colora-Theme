@@ -67,22 +67,8 @@ This is the original Mint-Y-Dark theme with all the little green accents.
 #What Mint-Y variations can you download?
 
 
+All themes are sorted alphabetically.
 
-#This is the Mint-Y-Sun theme.
-
-
-
-## Mint-Y-Dark-Sun
-
-![Screenshots](http://i.imgur.com/xi11Z70.jpg)
-
-## Mint-Y-Sun
-
-![Screenshots](http://i.imgur.com/JeKQ9fZ.png)
-
-## Mint-Y-Darker-Sun
-
-![Screenshots](http://i.imgur.com/1tHgHXi.jpg)
 
 # This is the Mint-Y-Alu theme.
 
@@ -98,6 +84,8 @@ This is the original Mint-Y-Dark theme with all the little green accents.
 
 ![Screenshots](http://i.imgur.com/Whth7bW.png)
 
+
+
 # This is the Mint-Y-Arc theme.
 
 ## Mint-Y-Dark-Arc
@@ -111,6 +99,8 @@ This is the original Mint-Y-Dark theme with all the little green accents.
 ## Mint-Y-Darker-Arc
 
 ![Screenshots](http://i.imgur.com/tRFkqVO.jpg)
+
+
 
 # This is the Mint-Y-Arch theme.
 
@@ -128,23 +118,15 @@ This is the original Mint-Y-Dark theme with all the little green accents.
 
 # This is the Mint-Y-Endeavour theme.
 
-## Mint-Y-Dark-Endeavour
 
-![Screenshots](http://i.imgur.com/5vkEmEi.jpg)
-
-## Mint-Y-Endeavour
-
-![Screenshots](http://i.imgur.com/rUJ7sRM.jpg)
-
-## Mint-Y-Darker-Endeavour
-
-![Screenshots](http://i.imgur.com/Dx5cow3.jpg)
 
 # This is the Mint-Y-Faba theme.
 
 ## Mint-Y-Dark-Faba
 
 ![Screenshots](http://i.imgur.com/lQs3os3.jpg)
+
+
 
 # This is the Mint-Y-Fire theme.
 
@@ -159,6 +141,9 @@ This is the original Mint-Y-Dark theme with all the little green accents.
 ## Mint-Y-Darker-Fire
 
 ![Screenshots](http://i.imgur.com/5PuBay9.png)
+
+
+
 
 # This is the Mint-Y-Lightning theme.
 
@@ -175,6 +160,15 @@ This is the original Mint-Y-Dark theme with all the little green accents.
 ![Screenshots](http://i.imgur.com/nZzpm2Q.jpg)
 
 
+
+# This is the Mint-Y-Paper theme.
+
+## Mint-Y-Dark-Paper
+
+![Screenshots](http://i.imgur.com/0sUmwY7.jpg)
+
+
+
 # This is the Mint-Y-Polo theme.
 
 ## Mint-Y-Dark-Polo
@@ -182,11 +176,21 @@ This is the original Mint-Y-Dark theme with all the little green accents.
 ![Screenshots](http://i.imgur.com/fHOkfbJ.jpg)
 
 
-# This is the Mint-Y-Paper theme.
 
-## Mint-Y-Dark-Paper
 
-![Screenshots](http://i.imgur.com/0sUmwY7.jpg)
+# This is the Mint-Y-Sun theme.
+
+## Mint-Y-Dark-Sun
+
+![Screenshots](http://i.imgur.com/xi11Z70.jpg)
+
+## Mint-Y-Sun
+
+![Screenshots](http://i.imgur.com/JeKQ9fZ.png)
+
+## Mint-Y-Darker-Sun
+
+![Screenshots](http://i.imgur.com/1tHgHXi.jpg)
 
 
 
