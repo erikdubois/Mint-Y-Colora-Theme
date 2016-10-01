@@ -60,7 +60,8 @@ cp -rf usr/share/themes/* $HOME"/.themes"
 
 echo "Let us rename the folders so they are unique :"
 echo "Your name will be added after 'Mint-Y', 'Mint-Y-Dark' or 'Mint-Y-Darker'."
-echo "E.g. Mint-Y-Sun" 
+echo "For example if you type Sun you will get"
+echo "E.g. Mint-Y-Sun, Mint-Y-Darker-Sun, Mint-Y-Dark-Sun" 
 
 read -p "How should we name this new theme? First letter is a capital letter : " choice
 
