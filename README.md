@@ -220,7 +220,7 @@ Get the latest version from Mint-Y-Colora, clone the repository with
 
     git clone https://github.com/erikdubois/Mint-Y-Colora-Theme
 
-<b>Copy/paste the 4 scripts</b> inside 
+<b>Copy/paste the scripts</b> inside 
 
 
     Mint-Y-Colora-Theme
