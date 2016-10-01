@@ -69,14 +69,17 @@
 
 # but there are some minor variations to consider as well
 
-
+##################################################################################################################
 ##################################################################################################################
 # put your colour codes in here and do not change the rest
+# Never put a hashtag in front of the colour code if copy/pasting from gpick
+# Never put "FF" at the end if copy/pasting from inkscape
+# Always 6 letters or numbers
 
 personaldarkcolour=90A4AE
 personallightcolour=90A4AE
 
-
+##################################################################################################################
 ##################################################################################################################
 
 echo "All colours in the folder src are still the original green ones from github!!!"
