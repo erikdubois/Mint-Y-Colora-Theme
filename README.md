@@ -160,6 +160,16 @@ All themes are sorted alphabetically.
 
 
 
+
+# This is the Mint-Y-Oranchelo theme.
+
+## Mint-Y-Dark-Oranchelo
+
+![Screenshots](http://i.imgur.com/lOtWOha.jpg)
+
+
+
+
 # This is the Mint-Y-Paper theme.
 
 ## Mint-Y-Dark-Paper
