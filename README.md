@@ -116,7 +116,6 @@ All themes are sorted alphabetically.
 
 ![Screenshots](http://i.imgur.com/o1XnG0M.png)
 
-# This is the Mint-Y-Endeavour theme.
 
 
 
