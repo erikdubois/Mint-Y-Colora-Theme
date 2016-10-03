@@ -289,6 +289,7 @@ After the installation is complete you can activate the theme with your theme ma
 
 ## Ubuntu 16.04
 
+We made a Mint-Y-Theme on Ubuntu with a red colour accent (ff0000).
 
 ![Screenshots](http://i.imgur.com/fp1EGzO.png)
 
