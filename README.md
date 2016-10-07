@@ -202,7 +202,7 @@ All themes are sorted alphabetically.
 
 ## Mint-Y-Dark-Sidecar
 
-![Screenshots](dddd)
+![Screenshots](http://i.imgur.com/F5qsRPf.jpg)
 
 
 
