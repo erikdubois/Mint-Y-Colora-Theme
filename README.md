@@ -200,6 +200,8 @@ All themes are sorted alphabetically.
 
 # This is the Mint-Y-Sidecar theme.
 
+Started with Sardi Ghost Flexible script to change the colour, then conky aureola and mint-y theme.
+
 ## Mint-Y-Dark-Sidecar
 
 ![Screenshots](http://i.imgur.com/F5qsRPf.jpg)
