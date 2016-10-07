@@ -198,6 +198,15 @@ All themes are sorted alphabetically.
 
 
 
+# This is the Mint-Y-Sidecar theme.
+
+## Mint-Y-Dark-Sidecar
+
+![Screenshots](dddd)
+
+
+
+
 # This is the Mint-Y-Sun theme.
 
 ## Mint-Y-Dark-Sun
