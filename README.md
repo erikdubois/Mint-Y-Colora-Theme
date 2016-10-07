@@ -204,7 +204,7 @@ Started with Sardi Ghost Flexible script to change the colour, then conky aureol
 
 ## Mint-Y-Dark-Sidecar
 
-![Screenshots](http://i.imgur.com/F5qsRPf.jpg)
+![Screenshots](http://i.imgur.com/MELNDGc.jpg)
 
 
 
