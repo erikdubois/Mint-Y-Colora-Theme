@@ -29,10 +29,9 @@
 # THESE CODES MUST BE CHANGED
 # THESE CODES MUST BE CHANGED
 # THESE CODES MUST BE CHANGED
-# This is crimson red.
 
-personaldarkcolour=FD424D
-personallightcolour=FD424D
+personaldarkcolour=90A4AE
+personallightcolour=90A4AE
 
 # THESE CODES MUST BE CHANGED
 # THESE CODES MUST BE CHANGED
@@ -55,6 +54,21 @@ echo "Wait for it ...."
 ## DO NOT CHANGE THESE LINES
 ## DO NOT CHANGE THESE LINES
 
+# converting your personaldarkcolour into an rgba for the rubberband
+
+hex2rgba_convert(){
+ hex = hex.replace('#','');
+ r = parseInt(hex.substring(0,2), 16);
+ g = parseInt(hex.substring(2,4), 16);
+ b = parseInt(hex.substring(4,6), 16);
+
+ result = 'rgba('+r+', '+g+', '+b+', '+opacity/100+')';
+ return result;
+}
+
+newcolour8=function	hex2rgba_convert($personaldarkcolour,0.2)
+echo $newcolour8
+
 
 
 oldcolour1=9ab87c
@@ -65,8 +79,6 @@ oldcolour5=9ab87d
 oldcolour6=88a66a
 #Rubberband
 oldcolour7=76905b
-#issue with the background colour when selecting elements
-#not an issue in older version of Mint-Y
 #oldcolour8="rgba(118, 144, 91, 0.2)"
 
 newcolour1=$personallightcolour
@@ -79,17 +91,3 @@ newcolour7=$personaldarkcolour
 #newcolour8="rgba(253, 66, 77, 0.2)"
 
 
-
-find src -name "*.*" -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
-find src -name "*.*" -type f -exec sed -i 's/'$oldcolour2'/'$newcolour2'/g' {}  \;
-find src -name "*.*" -type f -exec sed -i 's/'$oldcolour3'/'$newcolour3'/g' {}  \;
-find src -name "*.*" -type f -exec sed -i 's/'$oldcolour4'/'$newcolour4'/g' {}  \;
-find src -name "*.*" -type f -exec sed -i 's/'$oldcolour5'/'$newcolour5'/g' {}  \;
-find src -name "*.*" -type f -exec sed -i 's/'$oldcolour6'/'$newcolour6'/g' {}  \;
-find src -name "*.*" -type f -exec sed -i 's/'$oldcolour7'/'$newcolour7'/g' {}  \;
-#find src -name "*.*" -type f -exec sed -i 's/'$oldcolour8'/'$newcolour8'/g' {}  \;
-
-echo "All css files but also svg files will be affected"
-echo "PNG'S will not be altered with this script"
-echo
-echo "Next up delete all assets i.e. png's with script number 2"
