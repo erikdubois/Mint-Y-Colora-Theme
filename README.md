@@ -120,6 +120,14 @@ All themes are sorted alphabetically.
 
 
 
+# This is the Mint-Y-Crimson theme.
+
+## Mint-Y-Dark-Crimson
+
+![Screenshots](http://i.imgur.com/NCvY4C7.jpg)
+
+
+
 
 # This is the Mint-Y-Evopop theme.
 
