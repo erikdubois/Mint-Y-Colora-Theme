@@ -63,11 +63,8 @@ oldcolour3=779559
 oldcolour4=9abe76
 oldcolour5=9ab87d
 oldcolour6=88a66a
-#Rubberband
-oldcolour7=76905b
-#issue with the background colour when selecting elements
-#not an issue in older version of Mint-Y
-#oldcolour8="rgba(118, 144, 91, 0.2)"
+oldcolour7=81a65b
+
 
 newcolour1=$personallightcolour
 newcolour2=$personaldarkcolour
@@ -76,8 +73,6 @@ newcolour4=$personallightcolour
 newcolour5=$personallightcolour
 newcolour6=$personallightcolour
 newcolour7=$personaldarkcolour	
-#newcolour8="rgba(253, 66, 77, 0.2)"
-
 
 
 find src -name "*.*" -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
@@ -87,7 +82,6 @@ find src -name "*.*" -type f -exec sed -i 's/'$oldcolour4'/'$newcolour4'/g' {}  
 find src -name "*.*" -type f -exec sed -i 's/'$oldcolour5'/'$newcolour5'/g' {}  \;
 find src -name "*.*" -type f -exec sed -i 's/'$oldcolour6'/'$newcolour6'/g' {}  \;
 find src -name "*.*" -type f -exec sed -i 's/'$oldcolour7'/'$newcolour7'/g' {}  \;
-#find src -name "*.*" -type f -exec sed -i 's/'$oldcolour8'/'$newcolour8'/g' {}  \;
 
 echo "All css files but also svg files will be affected"
 echo "PNG'S will not be altered with this script"

@@ -60,8 +60,8 @@
       text-shadow: none; }
 
 .rubberband, GtkTreeView.view.rubberband, .content-view.rubberband {
-  border: 1px solid #76905b;
-  background-color: rgba(118, 144, 91, 0.2); }
+  border: 1px solid #FD424D;
+  background-color: rgba(253, 66, 77, 0.2); }
 
 .label.separator, .popover .label.separator, .sidebar .label.view.separator {
   color: #DADADA; }
@@ -2004,8 +2004,8 @@ GtkCheckButton.text-button, GtkRadioButton.text-button {
       .osd .scale.slider:hover {
         background-image: linear-gradient(to bottom, #fd424d); }
       .osd .scale.slider:active {
-        background-image: linear-gradient(to bottom, #76905b);
-        border-color: #76905b; }
+        background-image: linear-gradient(to bottom, #FD424D);
+        border-color: #FD424D; }
     .list-row:selected .scale.slider, GtkInfoBar .scale.slider {
       background-image: linear-gradient(to bottom, #ffffff);
       border-color: #ffffff; }
@@ -2788,7 +2788,7 @@ NautilusListView .view {
 
 NemoPlacesTreeView {
   -NemoPlacesTreeView-disk-full-bg-color: #C3C3C3;
-  -NemoPlacesTreeView-disk-full-fg-color: #76905b; }
+  -NemoPlacesTreeView-disk-full-fg-color: #FD424D; }
 
 NemoWindow EelEditableLabel.entry {
   transition: none; }
