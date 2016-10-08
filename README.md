@@ -6,7 +6,7 @@ Source can be found at https://github.com/linuxmint/mint-y-theme. Creator Horst3
 
 ###A youtube tutorial can be found here :
 
-To do.
+###http://erikdubois.be/category/themes/mint-y-based-themes/
 
 
 [Sardi icons](https://sourceforge.net/projects/sardi/files/) uses also the term COLORA to indicate that the icons can be ANY colour. Hope this will be more transparent to the end-user.
@@ -14,6 +14,8 @@ To do.
 ##Mint-Y-COLORA is capable to have ANY colour YOU like.
 
 ###Create your own colour accent theme with these scripts.
+
+###These scripts can also be run on other systems then Linux Mint. Scroll down to the bottom to see on which distro's.
 
 
 Each time I run these scripts, I renamed the result for example from 
@@ -196,6 +198,17 @@ All themes are sorted alphabetically.
 
 
 
+# This is the Mint-Y-Sidecar theme.
+
+Started with Sardi Ghost Flexible script to change the colour, then conky aureola and mint-y theme.
+
+## Mint-Y-Dark-Sidecar
+
+![Screenshots](http://i.imgur.com/MELNDGc.jpg)
+
+
+
+
 # This is the Mint-Y-Sun theme.
 
 ## Mint-Y-Dark-Sun
@@ -281,6 +294,15 @@ Follow the instructions in the script.
 
 
 After the installation is complete you can activate the theme with your theme manager by selecting `Mint-Y-Sun`, `Mint-Y-Darker-Sun` or `Mint-Y-Dark-Sun` as Window/GTK+ theme. If you named the theme "Sun". That is just an example.
+
+
+# Script can run on a variety of distro's.
+
+## Ubuntu 16.04
+
+We made a Mint-Y-Theme on Ubuntu with a red colour accent (ff0000).
+
+![Screenshots](http://i.imgur.com/fp1EGzO.png)
 
 
 # Uninstall the theme manually
