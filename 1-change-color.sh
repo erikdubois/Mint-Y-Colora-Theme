@@ -29,9 +29,10 @@
 # THESE CODES MUST BE CHANGED
 # THESE CODES MUST BE CHANGED
 # THESE CODES MUST BE CHANGED
+# This is crimson red.
 
-personaldarkcolour=90A4AE
-personallightcolour=90A4AE
+personaldarkcolour=FD424D
+personallightcolour=FD424D
 
 # THESE CODES MUST BE CHANGED
 # THESE CODES MUST BE CHANGED
@@ -55,12 +56,15 @@ echo "Wait for it ...."
 ## DO NOT CHANGE THESE LINES
 
 
+
 oldcolour1=9ab87c
 oldcolour2=8fa876
 oldcolour3=779559
 oldcolour4=9abe76
 oldcolour5=9ab87d
 oldcolour6=88a66a
+oldcolour7=81a65b
+
 
 newcolour1=$personallightcolour
 newcolour2=$personaldarkcolour
@@ -68,6 +72,7 @@ newcolour3=$personaldarkcolour
 newcolour4=$personallightcolour
 newcolour5=$personallightcolour
 newcolour6=$personallightcolour
+newcolour7=$personaldarkcolour	
 
 
 find src -name "*.*" -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
@@ -76,6 +81,7 @@ find src -name "*.*" -type f -exec sed -i 's/'$oldcolour3'/'$newcolour3'/g' {}  
 find src -name "*.*" -type f -exec sed -i 's/'$oldcolour4'/'$newcolour4'/g' {}  \;
 find src -name "*.*" -type f -exec sed -i 's/'$oldcolour5'/'$newcolour5'/g' {}  \;
 find src -name "*.*" -type f -exec sed -i 's/'$oldcolour6'/'$newcolour6'/g' {}  \;
+find src -name "*.*" -type f -exec sed -i 's/'$oldcolour7'/'$newcolour7'/g' {}  \;
 
 echo "All css files but also svg files will be affected"
 echo "PNG'S will not be altered with this script"
