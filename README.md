@@ -186,6 +186,14 @@ All themes are sorted alphabetically.
 
 
 
+# This is the Mint-Y-Moka theme.
+
+## Mint-Y-Dark-MOka
+
+![Screenshots](http://i.imgur.com/UgRHgxo.jpg)
+
+
+
 
 # This is the Mint-Y-Oranchelo theme.
 
