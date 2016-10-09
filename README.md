@@ -170,6 +170,15 @@ All themes are sorted alphabetically.
 
 
 
+# This is the Mint-Y-Hibiscus theme.
+
+## Mint-Y-Dark-Hibiscus
+
+![Screenshots](http://i.imgur.com/TOYWMRB.jpg)
+
+
+
+
 # This is the Mint-Y-Lightning theme.
 
 ## Mint-Y-Dark-Lightning
