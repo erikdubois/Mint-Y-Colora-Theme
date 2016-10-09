@@ -108,7 +108,6 @@ greendec=$((16#$greenhex))
 bluedec=$((16#$bluehex))
 
 rgbacolour="$reddec, $greendec, $bluedec"
-echo $rgbacolour
 
 #old rgba colour of background rubberband
 oldcolour1="118, 144, 91"
