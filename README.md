@@ -174,7 +174,7 @@ All themes are sorted alphabetically.
 
 ## Mint-Y-Dark-Hibiscus
 
-![Screenshots](http://i.imgur.com/TOYWMRB.jpg)
+![Screenshots](http://i.imgur.com/31PANoq.jpg)
 
 
 
