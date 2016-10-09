@@ -20,7 +20,7 @@ echo "Your name will be added after 'Mint-Y', 'Mint-Y-Dark' or 'Mint-Y-Darker'."
 echo "For example if you type Sun you will get"
 echo "E.g. Mint-Y-Sun, Mint-Y-Darker-Sun, Mint-Y-Dark-Sun" 
 
-read -p "How should we name this new theme? First letter is a capital letter : " choice
+read -p "How should we name this new theme? First letter is a capital letter (no space but '-') : " choice
 
 echo "Renaming the folders"
 
