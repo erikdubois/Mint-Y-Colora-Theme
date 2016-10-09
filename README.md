@@ -249,6 +249,13 @@ Started with Sardi Ghost Flexible script to change the colour, then conky aureol
 
 
 
+# This is the Mint-Y-Watusi theme.
+
+## Mint-Y-Dark-Watusi
+
+![Screenshots](http://i.imgur.com/nZsWOAQ.jpg)
+
+
 # Installation
 
 ##0. Get the source
