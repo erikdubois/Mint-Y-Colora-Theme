@@ -162,6 +162,13 @@ All themes are sorted alphabetically.
 
 
 
+# This is the Mint-Y-Havelock theme.
+
+## Mint-Y-Dark-Havelock
+
+![Screenshots](http://i.imgur.com/TOYWMRB.jpg)
+
+
 
 # This is the Mint-Y-Lightning theme.
 
