@@ -18,7 +18,7 @@ Source can be found at https://github.com/linuxmint/mint-y-theme. Creator Horst3
 ###These scripts can also be run on other systems then Linux Mint. Scroll down to the bottom to see on which distro's.
 
 
-Each time I run these scripts, I renamed the result for example from 
+Each time I run these scripts, I renamed the result for example from
 
     Mint-Y to Mint-Y-Sun
     Mint-Dark to Mint-Dark-Sun
@@ -42,7 +42,7 @@ Building takes approx. 20 minutes.
 # What is the inital look of Mint-Y theme
 
 
-The green colours of Mint-y theme 
+The green colours of Mint-y theme
 
     - 9ab87c
     - 8fa876
@@ -180,6 +180,15 @@ All themes are sorted alphabetically.
 
 
 
+# This is the Mint-Y-Matrix theme.
+
+## Mint-Y-Dark-Matrix
+
+![Screenshots](http://i.imgur.com/I2V1JzQ.jpg)
+
+
+
+
 # This is the Mint-Y-Oranchelo theme.
 
 ## Mint-Y-Dark-Oranchelo
@@ -238,7 +247,7 @@ Started with Sardi Ghost Flexible script to change the colour, then conky aureol
 
 ##0. Get the source
 
-First install git 
+First install git
 
 	sudo apt-get install git
 
@@ -250,13 +259,13 @@ Get the latest version from Mint-Y-Colora, clone the repository with
 
     git clone https://github.com/erikdubois/Mint-Y-Colora-Theme
 
-<b>Copy/paste the scripts</b> inside 
+<b>Copy/paste the scripts</b> inside
 
 
     Mint-Y-Colora-Theme
 
 
-to the folder 
+to the folder
 
 
 	mint-y-theme
@@ -294,7 +303,7 @@ If all went well you will find the result in the directory (you just downloaded)
 
 We will run the last script nr 4
 
-	- to rename the folders 
+	- to rename the folders
 	- to move the folders to ~/.themes
 	- to change the content of the three index.themes
 
