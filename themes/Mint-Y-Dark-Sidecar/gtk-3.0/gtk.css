@@ -60,8 +60,8 @@
       text-shadow: none; }
 
 .rubberband, GtkTreeView.view.rubberband, .content-view.rubberband {
-  border: 1px solid #76905b;
-  background-color: rgba(118, 144, 91, 0.2); }
+  border: 1px solid ##FFEDB5;
+  background-color: rgba(255, 237, 181, 0.2); }
 
 .label.separator, .popover .label.separator, .sidebar .label.view.separator {
   color: #DADADA; }
@@ -246,7 +246,7 @@ GtkSearchEntry.entry {
   .button:active {
     color: #DADADA; }
   .button:active:hover, .button:checked {
-    color: #ffffff; }
+    color: #000000; }
   .button.flat:insensitive, .sidebar-button.button:insensitive {
     border-color: transparent;
     background-color: transparent;

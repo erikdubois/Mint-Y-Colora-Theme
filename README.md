@@ -162,6 +162,22 @@ All themes are sorted alphabetically.
 
 
 
+# This is the Mint-Y-Havelock theme.
+
+## Mint-Y-Dark-Havelock
+
+![Screenshots](http://i.imgur.com/TOYWMRB.jpg)
+
+
+
+# This is the Mint-Y-Hibiscus theme.
+
+## Mint-Y-Dark-Hibiscus
+
+![Screenshots](http://i.imgur.com/31PANoq.jpg)
+
+
+
 
 # This is the Mint-Y-Lightning theme.
 
@@ -176,6 +192,14 @@ All themes are sorted alphabetically.
 ## Mint-Y-Darker-Lightning
 
 ![Screenshots](http://i.imgur.com/nZzpm2Q.jpg)
+
+
+
+# This is the Mint-Y-Moka theme.
+
+## Mint-Y-Dark-MOka
+
+![Screenshots](http://i.imgur.com/UgRHgxo.jpg)
 
 
 
@@ -241,6 +265,13 @@ Started with Sardi Ghost Flexible script to change the colour, then conky aureol
 ![Screenshots](http://i.imgur.com/1tHgHXi.jpg)
 
 
+
+
+# This is the Mint-Y-Watusi theme.
+
+## Mint-Y-Dark-Watusi
+
+![Screenshots](http://i.imgur.com/nZsWOAQ.jpg)
 
 
 # Installation

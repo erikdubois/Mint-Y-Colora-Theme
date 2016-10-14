@@ -191,7 +191,7 @@ StScrollBar {
   color: white;
   text-decoration: underline; }
   .cinnamon-link:hover {
-    color: white; }
+    color: black; }
 
 #Tooltip {
   border: 1px solid #d0d0d0;
@@ -282,13 +282,12 @@ StScrollBar {
 
 #panel {
   font-weight: bold;
-  height: 27px; }
+  height: 27px;
+  rgba(152, 13, 13, 0.1); }
   #panelLeft {
     spacing: 4px; }
     #panelLeft:dnd {
-      background-gradient-direction: vertical;
-      background-gradient-start: rgba(255, 0, 0, 0.05);
-      background-gradient-end: rgba(255, 0, 0, 0.2); }
+       rgba(152, 13, 13, 0.5); }
     #panelLeft:ltr {
       padding-right: 4px; }
     #panelLeft:rtl {

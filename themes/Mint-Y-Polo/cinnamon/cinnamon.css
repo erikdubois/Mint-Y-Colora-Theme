@@ -188,10 +188,10 @@ StScrollBar {
       background-image: url("light-assets/switch/switch-on.svg"); }
 
 .cinnamon-link {
-  color: #456fb6;
+  color: #688BC6;
   text-decoration: underline; }
   .cinnamon-link:hover {
-    color: #688bc6; }
+    color: #688BC6; }
 
 #Tooltip {
   border: 1px solid #d0d0d0;
@@ -1171,7 +1171,7 @@ StScrollBar {
   .workspace-button:outlined, .workspace-button:outlined:hover {
     color: #688BC6; }
   .workspace-button:hover {
-    color: rgba(104, 139, 198, 0.5); }
+    color: rgba(154, 184, 124, 0.5); }
 
 /* Controls the style when using the "Visual representation" option */
 .workspace-graph {
@@ -1305,7 +1305,7 @@ StScrollBar {
     padding-bottom: 6px; }
   .desklet-drag-placeholder {
     border: 2px solid #688BC6;
-    background-color: rgba(104, 139, 198, 0.3); }
+    background-color: rgba(154, 184, 124, 0.3); }
 
 .photoframe-box {
   border: 1px solid #d9d9d9;
@@ -1330,16 +1330,16 @@ StScrollBar {
   max-height: 100px; }
 
 .tile-preview {
-  background-color: rgba(104, 139, 198, 0.3);
+  background-color: rgba(154, 184, 124, 0.3);
   border: 1px solid #688BC6; }
   .tile-preview.snap {
-    background-color: rgba(104, 139, 198, 0.6); }
+    background-color: rgba(154, 184, 124, 0.6); }
 
 .tile-hud {
-  background-color: rgba(104, 139, 198, 0.3);
+  background-color: rgba(154, 184, 124, 0.3);
   border: 1px solid #688BC6; }
   .tile-hud.snap {
-    background-color: rgba(104, 139, 198, 0.6); }
+    background-color: rgba(154, 184, 124, 0.6); }
   .tile-hud:top {
     border-top-width: 0px; }
   .tile-hud:bottom {
