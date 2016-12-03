@@ -15,7 +15,7 @@ More information can be found here. Including many youtube tutorials.
 
 ###Create your own colour accent theme with these scripts.
 
-###These scripts can also be run on other systems then Linux Mint. Scroll down to the bottom to see on which distro's.
+####These scripts can also be run on other systems then Linux Mint. Scroll down to the bottom to see on which distro's.
 
 
 Each time I run these scripts, I renamed the result for example from
