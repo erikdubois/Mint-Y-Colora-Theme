@@ -45,11 +45,7 @@ The green colours of Mint-y theme
     - 9ab87c
     - 8fa876
 
-have been replaced both with a .... colour which is called 'xxxx'
-
-    - xxxxxx
-
-to follow one of the themes of the sardi icons at sourceforge.
+have been replaced both with a colour in hexadecimal format like a1a1a1 to follow one of the themes of the sardi icons at sourceforge or fit the colour of a wallpaper etc...
 
 https://sourceforge.net/projects/sardi/files
 
@@ -64,7 +60,10 @@ This is the original Mint-Y-Dark theme with all the little green accents.
 
 
 
-#What Mint-Y variations can you download?
+#What Mint-Y variations can you download from the collection github?
+
+
+https://github.com/erikdubois/Mint-Y-Colora-Theme-Collection
 
 
 All themes are sorted alphabetically.
