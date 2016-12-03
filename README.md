@@ -16,7 +16,7 @@ More information can be found here. Including many youtube tutorials.
 ###Create your own colour accent theme with these scripts.
 
 ####These scripts can also be run on other systems then Linux Mint. Scroll down to the bottom to see on which distro's.
-
+ 
 
 Each time I run these scripts, I renamed the result for example from
 
@@ -26,16 +26,14 @@ Each time I run these scripts, I renamed the result for example from
 
 Sun is just the name of the colour. You can choose any name.
 
-Other names and themes that I created are in the themes <b>folder</b>. They are always 'old'.
-
-If you run the scripts on the latest version of the github <b>then</b> you will have the most recent version with the latest bug fixes.
+If you run the scripts on the latest version of the github <b>then</b> you will have always the most recent version with the latest bug fixes. That is always the best thing to do.
 
 
 # Just want to download the themes not build them
 
-All created themes can be found in the <b>themes</b> folder. Put them in your hidden folder .themes.
+All created themes can be found at https://github.com/erikdubois/Mint-Y-Colora-Theme-Collection.
 
-Building takes approx. 20 minutes.
+Follow the steps on this github.
 
 
 
