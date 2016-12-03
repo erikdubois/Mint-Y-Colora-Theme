@@ -1,10 +1,10 @@
 # Mint-Y-Colora Theme
 
 
-##The goal is to make a script that makes it easy to change the colours of the Mint-Y theme of Linux Mint 18.
-Source can be found at https://github.com/linuxmint/mint-y-theme. Creator Horst3180.
+###The goal is to make a script that makes it easy to change the colours of the Mint-Y theme of Linux Mint.
+ We start from the source files at https://github.com/linuxmint/mint-y-theme (Creator Horst3180) and let loose a few scripts to change the colour accent.
 
-###A youtube tutorial can be found here :
+More information can be found here. Including many youtube tutorials.
 
 ###http://erikdubois.be/category/themes/mint-y-based-themes/
 
