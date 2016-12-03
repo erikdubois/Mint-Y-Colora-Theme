@@ -9,9 +9,9 @@ More information can be found here. Including many youtube tutorials.
 ###http://erikdubois.be/category/themes/mint-y-based-themes/
 
 
-[Sardi icons](https://sourceforge.net/projects/sardi/files/) uses also the term COLORA to indicate that the icons can be ANY colour. Hope this will be more transparent to the end-user.
-
 ##Mint-Y-COLORA is capable to have ANY colour YOU like.
+
+[Sardi icons](https://sourceforge.net/projects/sardi/files/) uses also the term COLORA to indicate that the icons can be ANY colour. Hope this will be more transparent to the end-user.
 
 ###Create your own colour accent theme with these scripts.
 
