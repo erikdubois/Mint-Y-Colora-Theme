@@ -36,6 +36,76 @@ All created themes can be found at https://github.com/erikdubois/Mint-Y-Colora-T
 Follow the steps on this github.
 
 
+# Installation
+
+##0. Get the source
+
+First install git
+
+	sudo apt-get install git
+
+Get the latest version from Horst - Mint-Y Theme, clone the repository with
+
+    git clone https://github.com/linuxmint/mint-y-theme
+
+Get the latest version from Mint-Y-Colora, clone the repository with
+
+    git clone https://github.com/erikdubois/Mint-Y-Colora-Theme
+
+<b>Copy/paste the scripts</b> inside
+
+
+    Mint-Y-Colora-Theme
+
+
+to the folder
+
+
+	mint-y-theme
+
+
+Let us run the scripts.
+
+##1. Change the colour
+
+Use the script to change the colour. Find yourself a nice colour with gpick or online.
+It should be a hexadecimal notation but without the hashtag or #. Read the script for more info.
+
+	1-change-color.sh
+
+##2. Delete old assets or png's
+
+Old png's will have to be deleted. They are still the original green ones. Read the script for more info.
+
+	2-delete-assets.sh
+
+
+##3. Make new assets or png's
+
+This is the most important part. New png's will be created with your colour.
+
+	3-make-assets.sh
+
+
+
+##4. Renaming
+
+If all went well you will find the result in the directory (you just downloaded) in the folder
+
+    usr/share/themes   NOT /usr/share/themes !!
+
+We will run the last script nr 4
+
+	- to rename the folders
+	- to move the folders to ~/.themes
+	- to change the content of the three index.themes
+
+Follow the instructions in the script.
+
+
+After the installation is complete you can activate the theme with your theme manager by selecting `Mint-Y-Sun`, `Mint-Y-Darker-Sun` or `Mint-Y-Dark-Sun` as Window/GTK+ theme. If you named the theme "Sun". That is just an example.
+
+
 
 # What is the inital look of Mint-Y theme
 
@@ -270,75 +340,6 @@ Started with Sardi Ghost Flexible script to change the colour, then conky aureol
 
 ![Screenshots](http://i.imgur.com/nZsWOAQ.jpg)
 
-
-# Installation
-
-##0. Get the source
-
-First install git
-
-	sudo apt-get install git
-
-Get the latest version from Horst - Mint-Y Theme, clone the repository with
-
-    git clone https://github.com/linuxmint/mint-y-theme
-
-Get the latest version from Mint-Y-Colora, clone the repository with
-
-    git clone https://github.com/erikdubois/Mint-Y-Colora-Theme
-
-<b>Copy/paste the scripts</b> inside
-
-
-    Mint-Y-Colora-Theme
-
-
-to the folder
-
-
-	mint-y-theme
-
-
-Let us run the scripts.
-
-##1. Change the colour
-
-Use the script to change the colour. Find yourself a nice colour with gpick or online.
-It should be a hexadecimal notation but without the hashtag or #. Read the script for more info.
-
-	1-change-color.sh
-
-##2. Delete old assets or png's
-
-Old png's will have to be deleted. They are still the original green ones. Read the script for more info.
-
-	2-delete-assets.sh
-
-
-##3. Make new assets or png's
-
-This is the most important part. New png's will be created with your colour.
-
-	3-make-assets.sh
-
-
-
-##4. Renaming
-
-If all went well you will find the result in the directory (you just downloaded) in the folder
-
-    usr/share/themes   NOT /usr/share/themes !!
-
-We will run the last script nr 4
-
-	- to rename the folders
-	- to move the folders to ~/.themes
-	- to change the content of the three index.themes
-
-Follow the instructions in the script.
-
-
-After the installation is complete you can activate the theme with your theme manager by selecting `Mint-Y-Sun`, `Mint-Y-Darker-Sun` or `Mint-Y-Dark-Sun` as Window/GTK+ theme. If you named the theme "Sun". That is just an example.
 
 
 # Script can run on a variety of distro's.
