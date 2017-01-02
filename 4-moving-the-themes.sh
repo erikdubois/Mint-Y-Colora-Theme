@@ -15,6 +15,18 @@
 [ -d $HOME"/.themes" ] || mkdir -p $HOME"/.themes"
 cp -rf usr/share/themes/* $HOME"/.themes"
 
+
+# fix for gtk2 sublime text select menu still green
+cp ~/.themes/Mint-Y/gtk-2.0/assets/menubar_button.png ~/.themes/Mint-Y/gtk-2.0/menubar-toolbar/menubar_button-dark.png
+cp ~/.themes/Mint-Y/gtk-2.0/assets/menubar_button.png ~/.themes/Mint-Y/gtk-2.0/menubar-toolbar/menubar_button.png
+
+cp ~/.themes/Mint-Y-Dark/gtk-2.0/assets/menubar_button.png ~/.themes/Mint-Y-Dark/gtk-2.0/menubar-toolbar/menubar_button-dark.png
+cp ~/.themes/Mint-Y-Dark/gtk-2.0/assets/menubar_button.png ~/.themes/Mint-Y-Dark/gtk-2.0/menubar-toolbar/menubar_button.png
+
+cp ~/.themes/Mint-Y-Darker/gtk-2.0/assets/menubar_button.png ~/.themes/Mint-Y-Darker/gtk-2.0/menubar-toolbar/menubar_button-dark.png
+cp ~/.themes/Mint-Y-Darker/gtk-2.0/assets/menubar_button.png ~/.themes/Mint-Y-Darker/gtk-2.0/menubar-toolbar/menubar_button.png
+
+
 echo "Let us rename the folders so they are unique :"
 echo "Your name will be added after 'Mint-Y', 'Mint-Y-Dark' or 'Mint-Y-Darker'."
 echo "For example if you type Sun you will get"
