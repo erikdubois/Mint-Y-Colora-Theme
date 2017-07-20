@@ -11,6 +11,27 @@
 #
 ##################################################################################################################
 
+
+choice=$1
+
+if [ $# -ne 1 ]; then
+
+    echo "Let us rename the folders so they are unique :"
+    echo "Your name will be added after 'Mint-Y', 'Mint-Y-Dark' or 'Mint-Y-Darker'."
+    echo "For example if you type Sun you will get"
+    echo "E.g. Mint-Y-Sun, Mint-Y-Darker-Sun, Mint-Y-Dark-Sun" 
+
+    read -p "How should we name this new theme? First letter is a capital letter (no space but '-') : " choice
+
+    echo "Renaming the folders"
+
+
+fi
+
+
+function makemint
+{
+
 # if there is no hidden folder then make one
 [ -d $HOME"/.themes" ] || mkdir -p $HOME"/.themes"
 cp -rf usr/share/themes/* $HOME"/.themes"
@@ -27,14 +48,6 @@ cp ~/.themes/Mint-Y-Darker/gtk-2.0/assets/menubar_button.png ~/.themes/Mint-Y-Da
 cp ~/.themes/Mint-Y-Darker/gtk-2.0/assets/menubar_button.png ~/.themes/Mint-Y-Darker/gtk-2.0/menubar-toolbar/menubar_button.png
 
 
-echo "Let us rename the folders so they are unique :"
-echo "Your name will be added after 'Mint-Y', 'Mint-Y-Dark' or 'Mint-Y-Darker'."
-echo "For example if you type Sun you will get"
-echo "E.g. Mint-Y-Sun, Mint-Y-Darker-Sun, Mint-Y-Dark-Sun" 
-
-read -p "How should we name this new theme? First letter is a capital letter (no space but '-') : " choice
-
-echo "Renaming the folders"
 
 mv $HOME"/.themes/Mint-Y" $HOME"/.themes/Mint-Y-"$choice
 mv $HOME"/.themes/Mint-Y-Dark" $HOME"/.themes/Mint-Y-Dark-"$choice
@@ -64,4 +77,9 @@ echo "in the hidden folder .themes"
 echo "The folder was created if you did not have one."
 echo "If you made a mistake, delete the folders in .themes and run the script again."
 echo "Select icon theme with your icon theme manager and enjoy!"
+
+}
+
+
+makeamint
 
