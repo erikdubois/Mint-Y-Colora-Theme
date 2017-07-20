@@ -29,7 +29,7 @@
 # THESE CODES MUST BE CHANGED
 # THESE CODES MUST BE CHANGED
 # THESE CODES MUST BE CHANGED
-# This is crimson red. #fd424d
+
 
 #original light version is #9ab87c
 personallightcolour=fd424d
