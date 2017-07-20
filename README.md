@@ -130,13 +130,22 @@ This is the original Mint-Y-Dark theme with all the little green accents.
 
 
 
-#What Mint-Y variations can you download from the collection github?
+# What Mint-Y variations can you download from the collection github?
 
 
 https://github.com/erikdubois/Mint-Y-Colora-Theme-Collection
 
 
-All themes are sorted alphabetically.
+# Mint-Y-Colora themes on Linux Mint 18.2
+
+
+Google+ is far easier to host the images on
+
+
+https://plus.google.com/collection/UlExqB
+
+
+
 
 
 # This is the Mint-Y-Alu theme.
