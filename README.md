@@ -6,16 +6,16 @@
 
 More information can be found here. Including many youtube tutorials.
 
-## http://erikdubois.be/category/themes/mint-y-based-themes/
+http://erikdubois.be/category/themes/mint-y-based-themes/
 
 
 ## Mint-Y-COLORA is capable to have ANY colour YOU like.
 
 [Sardi icons](https://sourceforge.net/projects/sardi/files/) uses also the term COLORA to indicate that the icons can be ANY colour. Hope this will be more transparent to the end-user.
 
-### Create your own colour accent theme with these scripts.
+Create your own colour accent theme with these scripts.
 
-#### These scripts can also be run on other systems then Linux Mint. Scroll down to the bottom to see on which distro's.
+These scripts can also be run on other systems then Linux Mint. Scroll down to the bottom to see on which distro's.
 
 
 Each time I run these scripts, I renamed the result for example from
