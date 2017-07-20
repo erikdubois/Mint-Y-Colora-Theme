@@ -29,8 +29,6 @@ if [ $# -ne 1 ]; then
 fi
 
 
-function makemint
-{
 
 # if there is no hidden folder then make one
 [ -d $HOME"/.themes" ] || mkdir -p $HOME"/.themes"
@@ -78,8 +76,4 @@ echo "The folder was created if you did not have one."
 echo "If you made a mistake, delete the folders in .themes and run the script again."
 echo "Select icon theme with your icon theme manager and enjoy!"
 
-}
-
-
-makemint
 
