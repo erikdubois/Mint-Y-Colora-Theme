@@ -81,5 +81,5 @@ echo "Select icon theme with your icon theme manager and enjoy!"
 }
 
 
-makeamint
+makemint
 
