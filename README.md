@@ -117,6 +117,8 @@ The green colours of Mint-y theme
 
 have been replaced both with a colour in hexadecimal format like a1a1a1 to follow one of the themes of the sardi icons at sourceforge or fit the colour of a wallpaper etc...
 
+Since this project only focuses on the original colour of the Mint-Y theme, make sure you reset Mint-Y files to their original state between runs. A simple 'git reset --hard' in Mint-Y theme folder should do the trick without impacting the Colora scripts you had to copy to modify the theme.
+
 https://sourceforge.net/projects/sardi/files
 
 
