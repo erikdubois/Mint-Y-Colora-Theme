@@ -1,12 +1,13 @@
-# Mint-Y-Colora Theme
+# Mint-Y-Colora Theme (Compatible with latest Mint 19 and Mint-Y releases)
 
 
-## The goal is to make a script that makes it easy to change the colours of the Mint-Y theme of Linux Mint.
- We start from the source files at https://github.com/linuxmint/mint-y-theme (Creator Horst3180) and let loose a few scripts to change the colour accent.
+## The goal is to make a script that makes it easy to change the colours of the Mint-Y (and hopefully soon Mint-X) theme of Linux Mint.
+ We start from the source files at https://github.com/linuxmint/mint-themes and let loose a few scripts to change the colour accent.
 
 More information can be found here. Including many youtube tutorials.
 
 http://erikdubois.be/category/themes/mint-y-based-themes/
+Note: This repository is a fork from Erik Dubois' project, which doesn't work with latest Mint and Mint-Y theme.
 
 
 ## Mint-Y-COLORA is capable to have ANY colour YOU like.
@@ -40,17 +41,17 @@ Follow the steps on this github.
 
 ##0. Get the source
 
-First install git
+First, install git
 
 	sudo apt-get install git
 
-Get the latest version from Horst - Mint-Y Theme, clone the repository with
+Get the latest version of the Linux Mint themes, clone the repository with
 
-    git clone https://github.com/linuxmint/mint-y-theme
+    git clone https://github.com/linuxmint/mint-themes
 
-Get the latest version from Mint-Y-Colora, clone the repository with
+Get the latest version of the updated Mint-Y-Colora, clone the repository with
 
-    git clone https://github.com/erikdubois/Mint-Y-Colora-Theme
+    git clone https://github.com/HattDroid/Mint-Y-Colora-Theme.git
 
 <b>Copy/paste the scripts</b> inside
 
@@ -61,7 +62,7 @@ Get the latest version from Mint-Y-Colora, clone the repository with
 to the folder
 
 
-	mint-y-theme
+	mint-themes
 
 
 Let us run the scripts.
@@ -105,6 +106,15 @@ Follow the instructions in the script.
 
 After the installation is complete you can activate the theme with your theme manager by selecting `Mint-Y-Sun`, `Mint-Y-Darker-Sun` or `Mint-Y-Dark-Sun` as Window/GTK+ theme. If you named the theme "Sun". That is just an example.
 
+# Resetting the themes files
+
+In the case you would like to try a new color than the one you have already tried, the files of the theme must be resetted. This can also be useful if you are unsure of the state of your theme working directory and want to start to work on a clean directory.
+Under the themes folder 'mint-themes', simply invoke:
+	
+	git reset --hard
+
+
+After that, you should be good to generate a new theme with your personalized color.
 
 
 # What is the inital look of Mint-Y theme

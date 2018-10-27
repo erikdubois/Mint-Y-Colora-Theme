@@ -19,7 +19,9 @@ sudo apt-get install -y ruby-sass optipng inkscape
 
 echo "Making all the icons"
 
-cd src
+SRC_DIR="src/Mint-Y"
+
+cd $SRC_DIR
 python build-themes.py
 
 
@@ -33,3 +35,4 @@ echo "Run script number 4 to install the themes."
 echo
 echo "Your themes will be installed in /usr/share/themes"
 echo "Select it with your theme manager."
+

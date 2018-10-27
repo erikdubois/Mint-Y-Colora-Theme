@@ -32,7 +32,7 @@ fi
 
 # if there is no hidden folder then make one
 [ -d $HOME"/.themes" ] || mkdir -p $HOME"/.themes"
-cp -rf usr/share/themes/* $HOME"/.themes"
+cp -rf usr/share/themes/Mint-Y* $HOME"/.themes"
 
 
 # fix for gtk2 sublime text select menu still green
