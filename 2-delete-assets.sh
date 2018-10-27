@@ -11,13 +11,15 @@
 #
 ##################################################################################################################
 
+SRC_DIR="src/Mint-Y"
+
 echo "Deleting all assets i.e. png in the src folder"
 
-rm -rf src/gtk-2.0/assets/*
-rm -rf src/gtk-2.0/assets-dark/*
-rm -rf src/gtk-2.0/menubar-toolbar/*
+rm -rf $SRC_DIR/gtk-2.0/assets/*
+rm -rf $SRC_DIR/gtk-2.0/assets-dark/*
+rm -rf $SRC_DIR/gtk-2.0/menubar-toolbar/*
 
-rm -rf src/gtk-3.0/3.18/assets/*
+rm -rf $SRC_DIR/gtk-3.0/assets/*
 
 
 echo "All png's have been deleted"

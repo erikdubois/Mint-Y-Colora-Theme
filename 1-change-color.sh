@@ -81,21 +81,22 @@ newcolour5=$personallightcolour
 newcolour6=$personallightcolour
 newcolour7=$personaldarkcolour	
 
+SRC_DIR="src/Mint-Y"
 
-find src -name "*.*" -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
-find src -name "*.*" -type f -exec sed -i 's/'$oldcolour2'/'$newcolour2'/g' {}  \;
-find src -name "*.*" -type f -exec sed -i 's/'$oldcolour3'/'$newcolour3'/g' {}  \;
-find src -name "*.*" -type f -exec sed -i 's/'$oldcolour4'/'$newcolour4'/g' {}  \;
-find src -name "*.*" -type f -exec sed -i 's/'$oldcolour5'/'$newcolour5'/g' {}  \;
-find src -name "*.*" -type f -exec sed -i 's/'$oldcolour6'/'$newcolour6'/g' {}  \;
-find src -name "*.*" -type f -exec sed -i 's/'$oldcolour7'/'$newcolour7'/g' {}  \;
+find $SRC_DIR -name "*.*" -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
+find $SRC_DIR -name "*.*" -type f -exec sed -i 's/'$oldcolour2'/'$newcolour2'/g' {}  \;
+find $SRC_DIR -name "*.*" -type f -exec sed -i 's/'$oldcolour3'/'$newcolour3'/g' {}  \;
+find $SRC_DIR -name "*.*" -type f -exec sed -i 's/'$oldcolour4'/'$newcolour4'/g' {}  \;
+find $SRC_DIR -name "*.*" -type f -exec sed -i 's/'$oldcolour5'/'$newcolour5'/g' {}  \;
+find $SRC_DIR -name "*.*" -type f -exec sed -i 's/'$oldcolour6'/'$newcolour6'/g' {}  \;
+find $SRC_DIR -name "*.*" -type f -exec sed -i 's/'$oldcolour7'/'$newcolour7'/g' {}  \;
 
 
 #Rubberband Solution for now
 
 #border
 oldcolour1=76905b
-find src -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
+find $SRC_DIR -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
 
 #background of rubberband is in rgba
 #from hex to decimal
@@ -114,11 +115,11 @@ oldcolour1="118, 144, 91"
 newcolour1=$rgbacolour
 
 #gtk-dark rubberband
-find src -type f -exec sed -i "s/$oldcolour1/$newcolour1/g" {}  \;
+find $SRC_DIR -type f -exec sed -i "s/$oldcolour1/$newcolour1/g" {}  \;
 
 #gtk + gtk-darker rubberband
 oldcolour1="129, 166, 91"
-find src -type f -exec sed -i "s/$oldcolour1/$newcolour1/g" {}  \;
+find $SRC_DIR -type f -exec sed -i "s/$oldcolour1/$newcolour1/g" {}  \;
 
 
 echo "All css files but also svg files will be affected"
